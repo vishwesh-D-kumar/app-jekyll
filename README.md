@@ -71,3 +71,4 @@ If you need a hand, make sure to check the [Stackbit support page](https://stack
 ## Colophon
 
 Generated at `2021-07-13T20:44:58.597Z` by Stackbit version `0.3.53`.
+Thanks!
